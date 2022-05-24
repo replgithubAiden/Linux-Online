@@ -1,8 +1,8 @@
 # VNC-server
 ``` 
-git clone https://github.com/replgithubAiden/VNC-server.git
+git clone https://github.com/replgithubAiden/Linux-Online.git
 cd VNC-server
-bash vnc-server-installation.sh
+bash LinuxOnline.sh
 ```
 then let the script do the work
 make SURE!!!!
