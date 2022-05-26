@@ -19,11 +19,9 @@ wget https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project
 clear
 figlet -f big "Kali in-the-web"
 echo hello and welcome to the kali script online
-echo "best password is 123456"
 vncserver :1
 echo server has been launched !!!!!
 echo github : replgithubaiden
 echo email  : aiden@suibhne.family
 echo email2 : githubaiden@hotmail.com
 echo email3 : alersa@protonmail.com
-echo thanks for using kali online.
