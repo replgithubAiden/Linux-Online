@@ -1,9 +1,7 @@
 sudo apt-get update
 sudo apt-get install toilet figlet
-clear
-figlet -f big "VNC Server"
-echo hello and welcome to the kali script online
-python3 verify.py
+
+
 sudo apt update
 
 sudo apt install -y git
@@ -18,6 +16,9 @@ sudo ss -antup | grep "mysqld\|guacd\|java"
 sudo apt install -y tigervnc-standalone-server
 mkdir -p ~/.vnc/
 wget https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project/-/raw/master/nethunter-fs/profiles/xstartup -O ~/.vnc/xstartup
+clear
+figlet -f big "Kali in-the-web"
+echo hello and welcome to the kali script online
 vncserver :1
 echo server has been launched !!!!!
 echo github : replgithubaiden
